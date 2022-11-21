@@ -1,6 +1,5 @@
 # Clase-16
-
-## Un recorrido por SpaceX
+*No logramos identificar el error para el ancho del último gráfico (para que no sea de ancho completo)
 
 ### Referencias
 
