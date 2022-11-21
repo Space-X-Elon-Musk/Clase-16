@@ -1,7 +1,7 @@
 # Clase-16
-*No logramos identificar el error para el ancho del último gráfico (para que no sea de ancho completo)
+***No logramos identificar el error para el ancho del último gráfico (para que no sea de ancho completo)***
 
-### Referencias
+### Referencias*
 
 1. [The world's tallest rockets](https://www.space.com/12944-worlds-tallest-rockets-comparison.html)
 2. [SpaceX](https://www.spacex.com/)
