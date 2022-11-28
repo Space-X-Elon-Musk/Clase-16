@@ -320,8 +320,8 @@
                         <dl>
                             <dt>Créditos:</dt>
                             <dd>
-                                Infografía digital desarrollada por <a href="#" class="link-secondary">Nombre Apellido</a>,<a href="#" class="link-secondary">Nombre Apellido</a>, <a href="#" class="link-secondary">Nombre Apellido</a>,
-                                <a href="#" class="link-secondary">Nombre Apellido</a>.
+                                Infografía digital desarrollada por <a href="#" class="link-secondary">Magdalena Muñoz</a>,<a href="#" class="link-secondary">Isidora Rozas</a>, <a href="#" class="link-secondary">María Jesús Vidal</a>,
+                                <a href="#" class="link-secondary">Valentina Waller</a>.
                             </dd>
                         </dl>
                         <dl>
@@ -358,7 +358,7 @@
                 const data = await consulta.json();
                 const listado = document.getElementById("relacionadas");
                 data.forEach((x, i) => {
-                    if (i != 8) {
+                    if (i != 4) {
                         listado.innerHTML += '<li class="position-relative"><dl><dt>' + x.title + ': ' + x.subtitle + '</dt><dd class="small">' + x.short + ' <a href="' + x.url + '" class="fst-normal link-secondary stretched-link">[ver más]</a></dd><dl>';
                     }
                 });
